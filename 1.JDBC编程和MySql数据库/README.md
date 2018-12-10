@@ -60,7 +60,7 @@
 
 大家可参考几篇博文：[《path与classpath区别》](https://blog.csdn.net/zhaihao1996/article/details/78387676)，[《JAVA环境变量JAVA_HOME、CLASSPATH、PATH设置详解》](https://www.cnblogs.com/Wjh794010585/articles/6582079.html)，[《JAVA为什么要配置环境变量，怎样配置》](https://www.cnblogs.com/zhangpengshou/p/4232204.html)
 
-- 右键 **我的电脑-属性-高级系统** 设置，你就会看到下面的界面：
+- 右键 **我的电脑-属性-高级系统** 设置，你就会看到以下的界面：
 
   ![系统属性面板](https://i.loli.net/2018/12/10/5c0e76186920d.png)
 
@@ -97,8 +97,9 @@
     ![Java脚本](https://i.loli.net/2018/12/11/5c0e8e9f6983d.png)
 
   -  接下来咱们来测试一下。往命令行依次输入以下命令（在cmd中，Tab键有补全字段的作用），结果如下图所示：
-  > e:     
-  > javac HelloWorld.java    
-  > java HelloWorld
+
+    `e:`     
+    `javac HelloWorld.java`   
+    `java HelloWorld`
 
    ![运行结果](https://i.loli.net/2018/12/11/5c0e8fbdc4d63.png)
