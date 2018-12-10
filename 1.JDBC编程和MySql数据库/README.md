@@ -21,7 +21,7 @@
 
   ![jdk压缩包](https://i.loli.net/2018/12/10/5c0e611795fa0.png)
 
-  而exe文件需要安装的，安装的时候会帮你设置环境变量。（本次jdk安装以exe安装为例）
+  而exe文件是需要安装的，安装的时候会帮你设置环境变量。（本次jdk安装以exe安装为例）
 
   ![jdk exe文件](https://i.loli.net/2018/12/10/5c0e61912d769.png)
 
@@ -60,7 +60,7 @@
 
 大家可参考几篇博文：[《path与classpath区别》](https://blog.csdn.net/zhaihao1996/article/details/78387676)，[《JAVA环境变量JAVA_HOME、CLASSPATH、PATH设置详解》](https://www.cnblogs.com/Wjh794010585/articles/6582079.html)，[《JAVA为什么要配置环境变量，怎样配置》](https://www.cnblogs.com/zhangpengshou/p/4232204.html)
 
-- 右键我的电脑-属性-高级系统设置，你就会看到下面的界面：
+- 右键 **我的电脑-属性-高级系统** 设置，你就会看到下面的界面：
 
   ![系统属性面板](https://i.loli.net/2018/12/10/5c0e76186920d.png)
 
@@ -84,15 +84,15 @@
 
     ![cmd-java -version](https://i.loli.net/2018/12/10/5c0e8c47d086e.png)
 
-  - 命令行输入 javac，如下图所示：
+  - 命令行输入 **javac**，如下图所示：
 
     ![cmd-Javac](https://i.loli.net/2018/12/10/5c0e8cc60837c.png)
 
-  - 命令行输入 java，如下图所示：
+  - 命令行输入 **java**，如下图所示：
 
     ![cmd-java](https://i.loli.net/2018/12/10/5c0e8d69ab34b.png)
 
-  - 写一段代码验证一下，我将写的java脚本放在 **e:/HelloWorld.java** 路径下。
+  - 写一段代码验证，我将写的java脚本放在 **e:/HelloWorld.java** 路径下。
 
     ![Java脚本](https://i.loli.net/2018/12/11/5c0e8e9f6983d.png)
 
