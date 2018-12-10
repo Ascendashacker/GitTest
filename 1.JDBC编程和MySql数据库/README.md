@@ -82,23 +82,23 @@
 - 最后，测试自己所配置的环境变量是否正确
   - win+R,输入cmd，进入命令行界面。输入 java -version，如下图显示正确版本：
 
-    ![Java版本](https://i.loli.net/2018/12/10/5c0e8c47d086e.png)
+    ![cmd-java -version](https://i.loli.net/2018/12/10/5c0e8c47d086e.png)
 
   - 命令行输入 javac，如下图所示：
 
-    ![Javac](https://i.loli.net/2018/12/10/5c0e8cc60837c.png)
+    ![cmd-Javac](https://i.loli.net/2018/12/10/5c0e8cc60837c.png)
 
   - 命令行输入 java，如下图所示：
 
-    ![QQ图片20181210235704.png](https://i.loli.net/2018/12/10/5c0e8d69ab34b.png)
+    ![cmd-java](https://i.loli.net/2018/12/10/5c0e8d69ab34b.png)
 
-  - 写一段代码验证一下，我将写的java脚本放在 **e:/HelloWorld.java** ,
+  - 写一段代码验证一下，我将写的java脚本放在 **e:/HelloWorld.java** 路径下。
 
-    ![QQ图片20181211000214.png](https://i.loli.net/2018/12/11/5c0e8e9f6983d.png)
+    ![Java脚本](https://i.loli.net/2018/12/11/5c0e8e9f6983d.png)
 
   -  接下来咱们来测试一下。往命令行依次输入以下命令（在cmd中，Tab键有补全字段的作用），结果如下图所示：
-  > cd e:/      
+  > e:     
   > javac HelloWorld.java    
   > java HelloWorld
 
-   ![QQ图片20181211000658.png](https://i.loli.net/2018/12/11/5c0e8fbdc4d63.png)
+   ![运行结果](https://i.loli.net/2018/12/11/5c0e8fbdc4d63.png)
