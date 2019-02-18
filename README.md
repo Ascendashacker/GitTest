@@ -1,2 +1,1 @@
-# GitTest
-Test
+# JavaEETutorial
